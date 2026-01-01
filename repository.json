@@ -1,5 +1,5 @@
 {
-    "name": "BoomAM Home Assistant Addons",
-    "url": "http://www.github.com/boomam/home-assistant-addons",
-    "maintainer": "Boomam"
+    "name": "BoomAM Home Assistant Addons (thelegy Fork)",
+    "url": "http://www.github.com/thelegy/traefik-home-assistant-addons",
+    "maintainer": "thelegy"
   }
